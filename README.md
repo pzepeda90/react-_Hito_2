@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # react-_Hito_2 <br>
 
 https://github.com/pzepeda90/react-_Hito_2
+https://react-hito-2-git-main-patricio-zepedas-projects.vercel.app/
